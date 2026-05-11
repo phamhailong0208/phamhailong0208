@@ -1,6 +1,6 @@
-# Embedded Engineer Or Mobile Development App.
+# Embedded Engineer or Fullstack Web/App.
 ##  About Me
-I'm an Embedded and Fullstack engineer.
+I'm an Embedded or Fullstack engineer.
 
 ###  Skills
 
