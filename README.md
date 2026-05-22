@@ -11,5 +11,5 @@ I'm an Embedded or Fullstack engineer.
 
 ###  Contact
 
-- Email: dotrucbk@gmail.com
+- Email: phlexile@gmail.com
 - LinkedIn: https://www.linkedin.com/in/phamhailong/
